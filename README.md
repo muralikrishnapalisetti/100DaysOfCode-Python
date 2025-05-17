@@ -6,8 +6,8 @@ I'm building 100 real-world Python projects – one project per day, practicing 
 
 ## 📅 Projects List
 
-| Day | Project Name     | Description                                                  |
-|-----|------------------|------------------------------------------------------------- |
-| 01  | [BillSplitPro](Day01_BillSplitPro/) | Tip & bill split calculator with feedback |
-| 02  | [TreasureHunt](Day02_TreasureHunt/)  | Riddle-based adventure game               |
-| 03  | Coming soon...                      |                                           |
+| Day | Project Name     |                     Description                                               |
+|-----|------------------|-------------------------------------------------------------------------------|
+| 01  | [BillSplitPro](Day01_BillSplitPro/)               | Tip & bill split calculator with feedback    |
+| 02  | [TreasureHunt](Day02_TreasureHunt/)               | Riddle-based adventure game                  |
+| 03  | [Rock, Paper, Scissors](Day03_RockPaperScissors/) | Console game with ASCII art & score tracking |
