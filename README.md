@@ -12,3 +12,6 @@ I'm building 100 real-world Python projects – one project per day, practicing 
 | 02  | [TreasureHunt](Day02_TreasureHunt/)               | Riddle-based adventure game                  |
 | 03  | [Rock, Paper, Scissors](Day03_RockPaperScissors/) | Console game with ASCII art & score tracking |
 | 04  | [PyPassword Generator](Day04_PyPasswordGenerator/) | Random password generator using lists & randomness |
+| 05  | [Reeborg Maze Solver](Day05_ReeborgMazeSolver/) | Solving a maze using right-hand rule algorithm in Reeborg’s World |
+| 06  | [Hangman Game](Day06_HangmanGame/) | Classic Hangman game using loops, conditionals, and ASCII visuals |
+
