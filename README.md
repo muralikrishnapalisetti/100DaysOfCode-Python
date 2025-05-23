@@ -15,8 +15,8 @@ I'm building 100 real-world Python projects – one project per day, practicing 
 | 05  | [Reeborg Maze Solver](Day05_ReeborgMazeSolver/) | Solving a maze using right-hand rule algorithm in Reeborg’s World |
 | 06  | [Hangman Game](Day06_HangmanGame/) | Classic Hangman game using loops, conditionals, and ASCII visuals |
 | 07  | [Caesar Cipher](Day07_Caesar_Cipher/) | Simple Python program to encode and decode messages using the classic Caesar Cipher technique |
-| 08  | [Secret Auction](Day08_SecretAuction/) | Dictionary-based bidding system to determine the highest bidder in a secret auction |
-| 09  | [PyCalculator](Day09_Calculator/) | A simple calculator using functions, loops, and dynamic operation mapping |
+| 08  | [Secret Auction](Day08_secret_auction/) | Dictionary-based bidding system to determine the highest bidder in a secret auction |
+| 09  | [PyCalculator](Day09_calculator/) | A simple calculator using functions, loops, and dynamic operation mapping |
 
 
 
