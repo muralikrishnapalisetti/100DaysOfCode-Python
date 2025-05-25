@@ -17,7 +17,7 @@ I'm building 100 real-world Python projects – one project per day, practicing 
 | 07  | [Caesar Cipher](Day07_Caesar_Cipher/) | Simple Python program to encode and decode messages using the classic Caesar Cipher technique |
 | 08  | [Secret Auction](Day08_secrete_auction/) | Dictionary-based bidding system to determine the highest bidder in a secret auction |
 | 09  | [PyCalculator](Day09_calculator/) | A simple calculator using functions, loops, and dynamic operation mapping |
-| 10  | [Blackjack Game](Day10_Blackjack/) | A playable Blackjack game using Python functions, lists, and logic control |
+| 10  | [Blackjack Game](Day10_blackjack/) | A playable Blackjack game using Python functions, lists, and logic control |
 
 
 
